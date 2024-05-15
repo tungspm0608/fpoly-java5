@@ -17,7 +17,7 @@
         <p>Tuổi</p>
         <input type="text" name="age">
         <p>Địa chỉ</p>
-        <input type="text" name="adress">
+        <input type="text" name="address">
         <br>
         <button type="submit">Submit</button>
     </form>
